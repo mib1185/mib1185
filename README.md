@@ -1,4 +1,4 @@
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border: none;">
 <tr>
 <td>
   
@@ -18,7 +18,7 @@ You like my work?
 <a href="https://www.buymeacoffee.com/mib1185" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 </td>
-<td width="350">
+<td width="350" style="border: none;">
 <img src="git-wrapped-mib1185_2024.png"  width="350">
 </td>
 </tr>
