@@ -1,3 +1,7 @@
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+  
 ## Hi there 👋 I'm Michael
 
 ### I'm not a native developer
@@ -12,6 +16,14 @@ By night you'll find me doing stuff for the [Home Assistant](https://github.com/
 You like my work?
 
 <a href="https://www.buymeacoffee.com/mib1185" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+</td>
+<td width="350">
+<img src="git-wrapped-mib1185_2024.png"  width="350">
+</td>
+</tr>
+</table>
+
 
 
 <!--
