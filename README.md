@@ -1,7 +1,3 @@
-<table style="border-collapse: collapse; border: none;">
-<tr>
-<td>
-  
 ## Hi there 👋 I'm Michael
 
 ### I'm not a native developer
@@ -16,27 +12,3 @@ By night you'll find me doing stuff for the [Home Assistant](https://github.com/
 You like my work?
 
 <a href="https://www.buymeacoffee.com/mib1185" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-</td>
-<td width="350" style="border: none;">
-<img src="git-wrapped-mib1185_2024.png"  width="350">
-</td>
-</tr>
-</table>
-
-
-
-<!--
-**mib1185/mib1185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
