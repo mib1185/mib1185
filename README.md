@@ -9,6 +9,6 @@ I'm used to use [ansible](https://github.com/ansible), [python](https://github.c
 By night you'll find me doing stuff for the [Home Assistant](https://github.com/home-assistant) project and also some custom projects around home automation and home assistant (_see my pinned repositories below_)
 
 ---
-You like my work?
+You like my work, want to support me?
 
 <a href="https://www.buymeacoffee.com/mib1185" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
